@@ -1,0 +1,28 @@
+<style>
+
+body {
+  background-color: aliceblue;
+}
+img {
+  margin-left: 0.5%;
+}
+.vertical-block {
+  width: 200px;
+  height: max-content;
+  display: inline-block;
+}
+#heading {
+  text-align: center;
+}
+.page-board {
+  background-color: rgb(198, 238, 238);
+  display:inline-block;
+  width: 84%;
+  float: right;
+}
+.Backround-remover {
+  width:200px 
+  height:150px
+}
+
+</style>
